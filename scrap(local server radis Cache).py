@@ -1,21 +1,9 @@
 import redis
 import json
-import os
 from platforms import atcoder, codechef, codeforces, hackerearth, hackerrank, geeksforgeeks
 
-
-redis_host = "gorgeous-rodent-12506.upstash.io"  # Set this in your Vercel environment variables
-redis_port = 6379
-redis_password = "ATDaAAIjcDEzNzEyOTQxM2M0ZmQ0NmI2OGZkZTk0OTk4OWY4Mzg5NXAxMA"
-
-redis_client = redis.StrictRedis(
-    host=redis_host,
-    port=redis_port,
-    password=redis_password,
-    decode_responses=True,
-    socket_timeout=10,  # Timeout in seconds
-    ssl=True  # Enable SSL
-)
+# Connect to Redis
+redis_client = redis.StrictRedis(host="localhost", port=6379, decode_responses=True)
 
 def fetchContests():
     cached_data = redis_client.get("contests_data")
@@ -35,6 +23,6 @@ def fetchContests():
     result = {"contests": contests}
 
     # Store in Redis for 30 minutes (1800 seconds)
-    redis_client.setex("contests_data", 604800, json.dumps(result)) # 604800 seconds -> 1 week cache
+    redis_client.setex("contests_data", 1800, json.dumps(result))
 
     return result
