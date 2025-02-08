@@ -1,0 +1,98 @@
+{
+  "headers_info": {
+    "recurring_event_name": "GfG Weekly Coding Contest",
+    "recurring_event_description": "\u003Cp\u003EImprove your DSA skills, earn Geekbits, boost your ratings, and climb the leaderboard - every Sunday at 7 PM!\u003C/p\u003E",
+    "recurring_banner": "https://media.geeksforgeeks.org/img-practice/banner/interview-series-1651055499-recurring-event-banner.png"
+  },
+  "overview": "Preparing for placements? GeeksforGeeks is organising a weekly recurring contest series which is designed to simulate the coding interview rounds of tech giants such as Google, Amazon, Adobe, Paytm etc. Our team of experts have put together each contest keeping in mind the type of questions and topics covered in interviews.",
+  "recurring_text": "Contests are scheduled Every Sunday, 7 to 8:30 PM IST",
+  "instructions": "\u003Cul\u003E\u003Cli\u003E\u003Cstrong\u003ETest Structure: \u003C/strong\u003EYou will be asked to solve 2-3 problems based on data structures and algorithms in 90 minutes.\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003ECoding Languages \u003C/strong\u003Esupported for the contest are: C++, Java, Python, JS.\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003ETime Penalty: \u003C/strong\u003EThere is 5 minutes time penalty for each wrong submission. For every wrong submission 5 minutes will be added to Last Correct Submission time.\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003EHints: \u003C/strong\u003EEach question has hints that you may use when you're stuck on a problem. Marks are deducted on hints usage.\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003EPlagiarism: \u003C/strong\u003EPlease refrain from discussing strategy during the contest. All submissions are run through a plagiarism detector. Any case of code plagiarism will reduce the score of the concerned participants to 0.\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003EDiscussion: \u003C/strong\u003EThis segment goes live after the contest ends. It can be used to interact with other participants and leave comments.&nbsp;&nbsp;\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003ERated Contest:&nbsp;\u003C/strong\u003E\u003Cul\u003E\u003Cli\u003EStarting from May 2024, all contests associated with GfG Weekly will be treated as Rated Contests.\u003C/li\u003E\u003Cli\u003EYour rating is based on your performance in comparison with other competitors.\u003C/li\u003E\u003Cli\u003EIt is calculated using the Elo MMR Algorithm.\u003C/li\u003E\u003Cli\u003ERating is assigned post plagiarism check.&nbsp;\u003C/li\u003E\u003C/ul\u003E\u003C/li\u003E\u003C/ul\u003E\u003Cp\u003E\u003Cstrong\u003E\u003Cspan style=\"text-decoration: underline;\" data-mce-style=\"text-decoration: underline;\"\u003ERating System\u003C/span\u003E\u003C/strong\u003E\u003C/p\u003E\u003Ctable border=\"1\" data-mce-style=\"border-collapse: collapse; width: 43.1058%; height: 260px;\" style=\"border-collapse: collapse; width: 43.1058%; height: 260px;\"\u003E\u003Ctbody\u003E\u003Ctr style=\"height: 23.3281px;\" data-mce-style=\"height: 23.3281px;\"\u003E\u003Ctd style=\"width: 48.0395%; height: 23.3281px; text-align: center;\" data-mce-style=\"width: 48.0395%; height: 23.3281px; text-align: center;\"\u003E\u003Cspan style=\"color: #273239; font-family: Nunito, sans-serif; font-size: 16.6667px; letter-spacing: 0.162px; text-align: center; background-color: #ffffff;\" data-mce-style=\"color: #273239; font-family: Nunito, sans-serif; font-size: 16.6667px; letter-spacing: 0.162px; text-align: center; background-color: #ffffff;\"\u003E&lt;= 1399\u003C/span\u003E\u003Cbr\u003E\u003C/td\u003E\u003Ctd style=\"width: 51.9185%; height: 23.3281px; text-align: center;\" data-mce-style=\"width: 51.9185%; height: 23.3281px; text-align: center;\"\u003E\u003Cspan style=\"color: rgb(0, 0, 0);\" data-mce-style=\"color: #000000;\"\u003E\u003Cspan data-mce-style=\"font-family: Nunito, sans-serif; font-size: 16.6667px; letter-spacing: 0.162px; text-align: center; background-color: #ffffff;\" style=\"font-family: Nunito, sans-serif; font-size: 16.6667px; letter-spacing: 0.162px; text-align: center; background-color: rgb(255, 255, 255);\"\u003E1 star\u003C/span\u003E\u003C/span\u003E\u003Cbr\u003E\u003C/td\u003E\u003C/tr\u003E\u003Ctr style=\"height: 23.3281px;\" data-mce-style=\"height: 23.3281px;\"\u003E\u003Ctd style=\"width: 48.0395%; height: 23.3281px; text-align: center;\" data-mce-style=\"width: 48.0395%; height: 23.3281px; text-align: center;\"\u003E\u003Cspan style=\"color: #273239; font-family: Nunito, sans-serif; font-size: 16.6667px; letter-spacing: 0.162px; text-align: center; background-color: #ffffff;\" data-mce-style=\"color: #273239; font-family: Nunito, sans-serif; font-size: 16.6667px; letter-spacing: 0.162px; text-align: center; background-color: #ffffff;\"\u003E1400 - 1599\u003C/span\u003E\u003Cbr\u003E\u003C/td\u003E\u003Ctd style=\"width: 51.9185%; height: 23.3281px; text-align: center;\" data-mce-style=\"width: 51.9185%; height: 23.3281px; text-align: center;\"\u003E\u003Cspan style=\"color: rgb(0, 0, 0);\" data-mce-style=\"color: #000000;\"\u003E\u003Cspan data-mce-style=\"font-family: Nunito, sans-serif; font-size: 16.6667px; letter-spacing: 0.162px; text-align: center; background-color: #ffffff;\" style=\"font-family: Nunito, sans-serif; font-size: 16.6667px; letter-spacing: 0.162px; text-align: center; background-color: rgb(255, 255, 255);\"\u003E2 star\u003C/span\u003E\u003C/span\u003E\u003Cbr\u003E\u003C/td\u003E\u003C/tr\u003E\u003Ctr style=\"height: 23.3281px;\" data-mce-style=\"height: 23.3281px;\"\u003E\u003Ctd style=\"width: 48.0395%; height: 23.3281px; text-align: center;\" data-mce-style=\"width: 48.0395%; height: 23.3281px; text-align: center;\"\u003E\u003Cstrong\u003E\u003Cspan data-mce-style=\"color: #273239; font-family: Nunito, sans-serif; font-size: 16.6667px; letter-spacing: 0.162px; text-align: center; background-color: #ffffff;\" style=\"color: rgb(39, 50, 57); font-family: Nunito, sans-serif; font-size: 16.6667px; letter-spacing: 0.162px; text-align: center; background-color: rgb(255, 255, 255);\"\u003E\u003Cspan style=\"font-size: 16.6667px; font-weight: 400; letter-spacing: 0.162px;\" data-mce-style=\"font-size: 16.6667px; font-weight: 400; letter-spacing: 0.162px;\"\u003E1600 - 1799\u003C/span\u003E\u003C/span\u003E\u003C/strong\u003E\u003Cbr\u003E\u003C/td\u003E\u003Ctd style=\"width: 51.9185%; height: 23.3281px; text-align: center;\" data-mce-style=\"width: 51.9185%; height: 23.3281px; text-align: center;\"\u003E\u003Cspan style=\"color: rgb(0, 0, 0);\" data-mce-style=\"color: #000000;\"\u003E\u003Cspan data-mce-style=\"font-family: Nunito, sans-serif; font-size: 16.6667px; letter-spacing: 0.162px; text-align: center; background-color: #ffffff;\" style=\"font-family: Nunito, sans-serif; font-size: 16.6667px; letter-spacing: 0.162px; text-align: center; background-color: rgb(255, 255, 255);\"\u003E3 star\u003C/span\u003E\u003C/span\u003E\u003Cbr\u003E\u003C/td\u003E\u003C/tr\u003E\u003Ctr style=\"height: 23.3281px;\" data-mce-style=\"height: 23.3281px;\"\u003E\u003Ctd style=\"width: 48.0395%; height: 23.3281px; text-align: center;\" data-mce-style=\"width: 48.0395%; height: 23.3281px; text-align: center;\"\u003E\u003Cspan style=\"color: #273239; font-family: Nunito, sans-serif; font-size: 16.6667px; letter-spacing: 0.162px; text-align: center; background-color: #ffffff;\" data-mce-style=\"color: #273239; font-family: Nunito, sans-serif; font-size: 16.6667px; letter-spacing: 0.162px; text-align: center; background-color: #ffffff;\"\u003E1800 - 1999\u003C/span\u003E\u003Cbr\u003E\u003C/td\u003E\u003Ctd style=\"width: 51.9185%; height: 23.3281px; text-align: center;\" data-mce-style=\"width: 51.9185%; height: 23.3281px; text-align: center;\"\u003E\u003Cspan style=\"color: rgb(0, 0, 0);\" data-mce-style=\"color: #000000;\"\u003E\u003Cspan data-mce-style=\"font-family: Nunito, sans-serif; font-size: 16.6667px; letter-spacing: 0.162px; text-align: center;\" style=\"font-family: Nunito, sans-serif; font-size: 16.6667px; letter-spacing: 0.162px; text-align: center;\"\u003E4 star\u003C/span\u003E\u003C/span\u003E\u003Cbr\u003E\u003C/td\u003E\u003C/tr\u003E\u003Ctr style=\"height: 23.3281px;\" data-mce-style=\"height: 23.3281px;\"\u003E\u003Ctd style=\"width: 48.0395%; height: 23.3281px; text-align: center;\" data-mce-style=\"width: 48.0395%; height: 23.3281px; text-align: center;\"\u003E\u003Cstrong style=\"color: #273239; font-family: Nunito, sans-serif; font-size: 16.6667px; letter-spacing: 0.162px; text-align: center;\" data-mce-style=\"color: #273239; font-family: Nunito, sans-serif; font-size: 16.6667px; letter-spacing: 0.162px; text-align: center;\"\u003E\u003Cspan style=\"font-size: 16.6667px; font-weight: 400; letter-spacing: 0.162px;\" data-mce-style=\"font-size: 16.6667px; font-weight: 400; letter-spacing: 0.162px;\"\u003E2000 - 2199\u003C/span\u003E\u003C/strong\u003E\u003Cbr\u003E\u003C/td\u003E\u003Ctd style=\"width: 51.9185%; height: 23.3281px; text-align: center;\" data-mce-style=\"width: 51.9185%; height: 23.3281px; text-align: center;\"\u003E\u003Cspan style=\"color: rgb(0, 0, 0);\" data-mce-style=\"color: #000000;\"\u003E\u003Cspan data-mce-style=\"font-family: Nunito, sans-serif; font-size: 16.6667px; letter-spacing: 0.162px; text-align: center;\" style=\"font-family: Nunito, sans-serif; font-size: 16.6667px; letter-spacing: 0.162px; text-align: center;\"\u003E5 star\u003C/span\u003E\u003C/span\u003E\u003Cbr\u003E\u003C/td\u003E\u003C/tr\u003E\u003Ctr style=\"height: 23.3281px;\" data-mce-style=\"height: 23.3281px;\"\u003E\u003Ctd style=\"width: 48.0395%; height: 23.3281px; text-align: center;\" data-mce-style=\"width: 48.0395%; height: 23.3281px; text-align: center;\"\u003E\u003Cstrong style=\"color: #273239; font-family: Nunito, sans-serif; font-size: 16.6667px; letter-spacing: 0.162px; text-align: center;\" data-mce-style=\"color: #273239; font-family: Nunito, sans-serif; font-size: 16.6667px; letter-spacing: 0.162px; text-align: center;\"\u003E\u003Cspan style=\"font-size: 16.6667px; font-weight: 400; letter-spacing: 0.162px;\" data-mce-style=\"font-size: 16.6667px; font-weight: 400; letter-spacing: 0.162px;\"\u003E2200 - 2499\u003C/span\u003E\u003C/strong\u003E\u003Cbr\u003E\u003C/td\u003E\u003Ctd style=\"width: 51.9185%; height: 23.3281px; text-align: center;\" data-mce-style=\"width: 51.9185%; height: 23.3281px; text-align: center;\"\u003E\u003Cspan style=\"color: rgb(0, 0, 0);\" data-mce-style=\"color: #000000;\"\u003E\u003Cspan data-mce-style=\"font-family: Nunito, sans-serif; font-size: 16.6667px; letter-spacing: 0.162px; text-align: center;\" style=\"font-family: Nunito, sans-serif; font-size: 16.6667px; letter-spacing: 0.162px; text-align: center;\"\u003E6 star\u003C/span\u003E\u003C/span\u003E\u003Cbr\u003E\u003C/td\u003E\u003C/tr\u003E\u003Ctr style=\"height: 23.3281px;\" data-mce-style=\"height: 23.3281px;\"\u003E\u003Ctd style=\"width: 48.0395%; height: 23.3281px; text-align: center;\" data-mce-style=\"width: 48.0395%; height: 23.3281px; text-align: center;\"\u003E\u003Cspan style=\"color: #273239; font-family: Nunito, sans-serif; font-size: 16.6667px; letter-spacing: 0.162px; text-align: center; background-color: #ffffff;\" data-mce-style=\"color: #273239; font-family: Nunito, sans-serif; font-size: 16.6667px; letter-spacing: 0.162px; text-align: center; background-color: #ffffff;\"\u003E&gt;= 2500\u003C/span\u003E\u003Cbr\u003E\u003C/td\u003E\u003Ctd style=\"width: 51.9185%; height: 23.3281px; text-align: center;\" data-mce-style=\"width: 51.9185%; height: 23.3281px; text-align: center;\"\u003E\u003Cspan style=\"color: rgb(0, 0, 0);\" data-mce-style=\"color: #000000;\"\u003E\u003Cspan data-mce-style=\"font-family: Nunito, sans-serif; font-size: 16.6667px; letter-spacing: 0.162px; text-align: center; background-color: #ffffff;\" style=\"font-family: Nunito, sans-serif; font-size: 16.6667px; letter-spacing: 0.162px; text-align: center; background-color: rgb(255, 255, 255);\"\u003E7 star\u003C/span\u003E\u003C/span\u003E\u003C/td\u003E\u003C/tr\u003E\u003C/tbody\u003E\u003C/table\u003E\u003Cp\u003E\u003Cspan style=\"text-decoration: underline;\" data-mce-style=\"text-decoration: underline;\"\u003E\u003Cstrong\u003ERewards\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\u003Cul\u003E\u003Cli\u003EFor each contest,\u003Cul\u003E\u003Cli\u003ERank 1: 700 Geekbits\u003C/li\u003E\u003Cli\u003ERank 2: 400 Geekbits\u003C/li\u003E\u003Cli\u003ERank 3: 200 Geekbits\u003C/li\u003E\u003Cli\u003ETop 50 (Rank 4 to 50): 50 Geekbits\u003C/li\u003E\u003Cli\u003EParticipation (Score &gt; 0): 2 Geekbits\u003C/li\u003E\u003C/ul\u003E\u003C/li\u003E\u003Cli\u003EBe among the top 8 rankers on our Monthly leaderboard; get 50 Geekbits as bonus.\u003C/li\u003E\u003Cli\u003EThese GeekBits can be redeemed on our \u003Ca data-mce-href=\"https://www.geeksforgeeks.org/reward\" href=\"https://www.geeksforgeeks.org/reward\"\u003ERewards Page\u003C/a\u003E.\u003C/li\u003E\u003C/ul\u003E",
+  "solution_image": "",
+  "solution_text": "\u003Cp style=\"text-align: left;\" data-mce-style=\"text-align: left;\"\u003EWe are going live on Youtube immediately after each contest. GfG Mentors will be live streaming the video editorials and also solving your doubts.\u003Cbr\u003E\u003Ca href=\"https://www.youtube.com/live/lysPB5irjbA?si=lUgiR7rkcYZMpuD1\" target=\"_blank\" data-mce-href=\"https://www.youtube.com/live/lysPB5irjbA?si=lUgiR7rkcYZMpuD1\"\u003EHead to GfG Practice Youtube Channel\u003C/a\u003E\u003C/p\u003E",
+  "can_edit_event": false,
+  "add_edit_recurring_page_link": "",
+  "default_tab": 2,
+  "hello_banner_type": "gradient",
+  "hello_banner": {
+    "hello_banner_image": "",
+    "hello_banner_gradient": "linear-gradient(#3d814e,#26b174)"
+  },
+  "hello_banner_text_color": "#ffffff",
+  "related_data": [],
+  "is_leaderboard_public": true,
+  "default_leaderboard": 0,
+  "invite_only_event_type_registration": false,
+  "auto_register_for_event_types": true,
+  "testimonials_data": [],
+  "show_comment_system": false,
+  "event_entity_details": {
+    "entity_id": 73152,
+    "event_entity_url": "https://practice.geeksforgeeks.org/contest/gfg-weekly-193-rated-contest",
+    "btn_text": "View Details",
+    "start_date": "09 February",
+    "banner": {
+      "mobile_url": "https://media.geeksforgeeks.org/img-practice/banner/gfg-weekly-193-rated-contest-1737196085-recurring-mobile.png",
+      "desktop_url": "https://media.geeksforgeeks.org/img-practice/banner/gfg-weekly-193-rated-contest-1737196085-recurring-desktop.png"
+    },
+    "name": "GfG Weekly - 193 [Rated Contest]",
+    "total_problems_count": 4,
+    "total_score": 100,
+    "total_time": "90",
+    "event_entity_type": 1,
+    "event_entity_type_text": "CONTEST",
+    "start_time": "2025-02-09T19:00:00"
+  },
+  "upcoming_entity_details": [
+    {
+      "entity_id": 73153,
+      "event_entity_url": "https://practice.geeksforgeeks.org/contest/gfg-weekly-194-rated-contest",
+      "btn_text": "View Details",
+      "start_date": "16 February",
+      "banner": {
+        "mobile_url": "https://media.geeksforgeeks.org/img-practice/banner/gfg-weekly-194-rated-contest-1737196349-recurring-mobile.png",
+        "desktop_url": "https://media.geeksforgeeks.org/img-practice/banner/gfg-weekly-194-rated-contest-1737196349-recurring-desktop.png"
+      },
+      "name": "GfG Weekly - 194 [Rated Contest]",
+      "total_problems_count": 0,
+      "total_score": 0,
+      "total_time": "90",
+      "event_entity_type": 1,
+      "event_entity_type_text": "CONTEST",
+      "start_time": "2025-02-16T19:00:00"
+    },
+    {
+      "entity_id": 73154,
+      "event_entity_url": "https://practice.geeksforgeeks.org/contest/gfg-weekly-195-rated-contest",
+      "btn_text": "View Details",
+      "start_date": "23 February",
+      "banner": {
+        "mobile_url": "https://media.geeksforgeeks.org/img-practice/banner/gfg-weekly-195-rated-contest-1737196837-recurring-mobile.png",
+        "desktop_url": "https://media.geeksforgeeks.org/img-practice/banner/gfg-weekly-195-rated-contest-1737196837-recurring-desktop.png"
+      },
+      "name": "GfG Weekly - 195 [Rated Contest]",
+      "total_problems_count": 0,
+      "total_score": 0,
+      "total_time": "90",
+      "event_entity_type": 1,
+      "event_entity_type_text": "CONTEST",
+      "start_time": "2025-02-23T19:00:00"
+    },
+    {
+      "entity_id": 73372,
+      "event_entity_url": "https://practice.geeksforgeeks.org/contest/gfg-weekly-196-rated-contest",
+      "btn_text": "View Details",
+      "start_date": "02 March",
+      "banner": {
+        "mobile_url": "https://media.geeksforgeeks.org/img-practice/banner/gfg-weekly-196-rated-contest-1737703882-recurring-mobile.png",
+        "desktop_url": "https://media.geeksforgeeks.org/img-practice/banner/gfg-weekly-196-rated-contest-1737703885-recurring-desktop.png"
+      },
+      "name": "GfG Weekly - 196 [Rated Contest]",
+      "total_problems_count": 0,
+      "total_score": 0,
+      "total_time": "90",
+      "event_entity_type": 1,
+      "event_entity_type_text": "CONTEST",
+      "start_time": "2025-03-02T19:00:00"
+    }
+  ]
+}

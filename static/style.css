@@ -1,0 +1,80 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    /* background-color: #121212;  Dark background */
+}
+
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+.contest-list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;  /* Allows wrapping of items in rows */
+    gap: 15px;  /* Adds space between items */
+    padding: 20px;
+    justify-content: space-between;  /* Distribute items evenly with equal spacing on both sides */
+}
+
+
+
+.contest-item {
+    position: relative;
+    overflow: hidden; /* Prevents overflow */
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    width: calc(33% - 7.5px);
+    min-width: 200px;
+    box-sizing: border-box;
+    background-size: cover;
+    background-position: center;
+}
+
+.contest-item::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: inherit; /* Copy background */
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    opacity: 0.1; /* Adjust transparency */
+    z-index: -1; /* Keeps it behind content */
+}
+
+
+.contest-item h3 {
+    display: inline-block; /*To add image inline*/
+    margin: 0; /* Remove default margin from <h3> */
+}
+
+.contest-item a {
+    color: #1E90FF;
+    text-decoration: none;
+}
+
+.contest-item a:hover {
+    text-decoration: underline;
+}
+
+
+
+.loading {
+    text-align: center;
+    font-size: 1.2em;
+    color: #888;
+}
+
+.error {
+    color: red;
+    font-size: 1.2em;
+    text-align: center;
+}
